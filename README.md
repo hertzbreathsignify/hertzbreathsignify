@@ -1,22 +1,20 @@
-## Hi there 👋
+# Hey, welcome to my profile
 
-<!--
-**hertzbreathsignify/hertzbreathsignify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building automation tools and reverse-engineering when bored.
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- DirectX/OpenGL drawing
+- Memory editing
+- Windows internals
+- Anti-cheat research
 
-## Recent projects
+### Tech stack
 
-<!-- DEVIN-AUTO-PINS-START -->
-- [valorant-helper-tool](https://github.com/hertzbreathsignify/valorant-helper-tool) — The Valorant Helper Tool is a utility designed for gamers and developers to enhance their experience with the game. It p
-<!-- DEVIN-AUTO-PINS-END -->
+![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### GitHub stats
+
+![hertzbreathsignify's GitHub stats](https://github-readme-stats.vercel.app/api?username=hertzbreathsignify&show_icons=true&hide_border=true&theme=transparent)
+
+*Open to collaboration on interesting projects.*
